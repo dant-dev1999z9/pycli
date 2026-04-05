@@ -6,7 +6,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![Python](https://img.shields.io/badge/python-3.10+-blue.svg) ![Platform](https://img.shields.io/badge/platform-cross--platform-lightgrey.svg)
 
-![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.0-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/dant-dev1999z9/pycli?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/dant-dev1999z9/pycli?style=flat-square)
+![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.1-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/dant-dev1999z9/pycli?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/dant-dev1999z9/pycli?style=flat-square)
 
 Workflow — Boost your coding processes using Clawdbot's skills and integions for agentic configuions, cloud utilities, and protected communication chan
 
